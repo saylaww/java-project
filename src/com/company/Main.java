@@ -3,6 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	System.out.print("javs");
+	System.out.print("hello");
     }
 }
